@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4882" started-at="2019-04-03T17:07:45Z" finished-at="2019-04-03T17:07:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4882" started-at="2019-04-03T17:07:45Z" finished-at="2019-04-03T17:07:50Z">
+      <class name="datadriven.arraylist.testng.MainTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:datadriven.arraylist.testng.MainTest@4667ae56]" name="openBrowser" is-config="true" duration-ms="4338" started-at="2019-04-03T17:07:45Z" finished-at="2019-04-03T17:07:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:datadriven.arraylist.testng.MainTest@4667ae56]" name="test1" duration-ms="531" started-at="2019-04-03T17:07:50Z" finished-at="2019-04-03T17:07:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:datadriven.arraylist.testng.MainTest@4667ae56]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2019-04-03T17:07:50Z" finished-at="2019-04-03T17:07:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- datadriven.arraylist.testng.MainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
